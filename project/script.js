@@ -8,7 +8,7 @@ const swiper = new Swiper('.slider-wrapper', {
     pagination: {
       el: '.swiper-pagination',
       clickable: true,
-      dynamicBullets:false,
+      dynamicBullets:true,
     },
   
     // Navigation arrows
